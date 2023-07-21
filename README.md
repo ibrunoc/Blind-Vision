@@ -18,6 +18,7 @@ Este é um projeto desenvolvido em grupo para no instituto Proa, onde a nossa id
 ## Tecnologias Usadas
 
 - [ReactJS](https://legacy.reactjs.org/docs/getting-started.html)
+- [StyledComponents](https://styled-components.com/docs)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Git](https://git-scm.com/docs)
 - [VS Code](https://code.visualstudio.com/)
