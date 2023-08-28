@@ -1,7 +1,7 @@
 <h1 align="center">
   Blind Vision
 </h1>
-<h5 align="center">Data de criação do projeto: 05 de Junho de 2022</h5>
+<h5 align="center">Data de criação do projeto: 05 de Junho de 2022</h5> 
 
 <h3 align="center">   
 Este é um projeto desenvolvido em grupo para no instituto Proa, onde a nossa ideia foi criar um óculos para cego. Esse óculos iria lê ao redor da pessoa que estivesse com ele e iria descrever os objetos em torno de um raio de 5m, assim livrando o cego da muleta e do cão guia.
