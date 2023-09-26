@@ -9,12 +9,6 @@ Este é um projeto desenvolvido em grupo para no instituto Proa, onde a nossa id
 
 <br />
 
-<p align="center">
-  <a href="#Tecnologias-Usadas">Tecnologias Usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Como-Usar-O-Projeto">Como Usar O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Resultado-Final">Resultado Final</a>
-</p>
-
 ## Tecnologias Usadas
 
 - [ReactJS](https://legacy.reactjs.org/docs/getting-started.html)
@@ -23,25 +17,9 @@ Este é um projeto desenvolvido em grupo para no instituto Proa, onde a nossa id
 - [Git](https://git-scm.com/docs)
 - [VS Code](https://code.visualstudio.com/)
 
-## Como Usar O Projeto
-Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com) e do [NodeJS](https://nodejs.org/en), instalado em seu computador.
-
-```bash
-# Clone esse repositório
-$ git clone https://github.com/ibrunoc/Blind-Vision.git
-
-# Abra o repositório
-
-# Na linha de comando digite npm Install no repositório
-
-# e por fim, npm start para iniciar o repositório
-```
-
 <div align="center">
   <h2><a href="https://blind-vision.vercel.app/">LINK DO PROJETO</a></h2>
 </div>
-
-## Resultado Final
 
 ![Screenshot_1](https://user-images.githubusercontent.com/68878579/180325953-ba5c282b-9d1b-48fe-98c5-289a7401e78f.png)
 
