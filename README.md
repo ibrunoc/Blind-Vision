@@ -15,7 +15,6 @@ Este é um projeto desenvolvido em grupo para no instituto Proa, onde a nossa id
 - [StyledComponents](https://styled-components.com/docs)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Git](https://git-scm.com/docs)
-- [VS Code](https://code.visualstudio.com/)
 
 <div align="center">
   <h2><a href="https://blind-vision.vercel.app/">LINK DO PROJETO</a></h2>
